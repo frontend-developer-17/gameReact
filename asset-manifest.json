@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gameReact/static/css/main.2baac195.css",
+    "main.js": "/gameReact/static/js/main.324495eb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gameReact/static/js/787.28cb0dcd.chunk.js",
+    "static/media/tree.jpg": "/gameReact/static/media/tree.ad9993aedf53c7339fb6.jpg",
+    "static/media/question.jpg": "/gameReact/static/media/question.2ab1a30ca8d5622d7e25.jpg",
+    "static/media/flower.png": "/gameReact/static/media/flower.14b3b01b2076d165a6a7.png",
+    "static/media/carsL.jpg": "/gameReact/static/media/carsL.437a4ef77937740a9100.jpg",
+    "static/media/motocicle.jpg": "/gameReact/static/media/motocicle.a5545c9b7e7abeb2fa99.jpg",
+    "static/media/lamp.jpg": "/gameReact/static/media/lamp.9ffb30b0aa01f7f3f036.jpg",
+    "static/media/teapot.jpg": "/gameReact/static/media/teapot.41c08d3793e2bff120c4.jpg",
+    "index.html": "/gameReact/index.html",
+    "main.2baac195.css.map": "/gameReact/static/css/main.2baac195.css.map",
+    "main.324495eb.js.map": "/gameReact/static/js/main.324495eb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gameReact/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2baac195.css",
+    "static/js/main.324495eb.js"
+  ]
+}
