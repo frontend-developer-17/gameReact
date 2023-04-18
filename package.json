@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://frontend-developer-17.github.io/react-pizza",
+  "homepage": "https://frontend-developer-17.github.io/gameReact",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
